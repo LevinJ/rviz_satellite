@@ -40,7 +40,7 @@ Visualization Manager:
       Frame Convention: XYZ -> ENU
       Name: AerialMapDisplay
       Object URI: https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png
-      Topic: /gps/fix
+      Topic: /gps/fix_faked_gps
       Value: true
       Zoom: 18
     - Class: rviz/Axes
